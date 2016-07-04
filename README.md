@@ -1,4 +1,4 @@
-# BLAST Sequence Alignment
+# BoM / KJV Bible BLAST Sequence Alignment
 
 This project uses the BLAST+ genetic sequence alignment tool to find likely biblical sources for every sentence in the Book of Mormon.
 
